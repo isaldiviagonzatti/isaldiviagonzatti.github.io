@@ -1,17 +1,21 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "About me" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+I love nature, and I love understanding how society works. Thus, I decided to study economics and climate to help preserving society's dearest asset: the environment. I will soon finish my master's degree at Wageningen University and my goal is to help find scientific, innovative solutions to cope with the consequences of human activity on the environment and the effects of climate change on our communities. 
+
+To learn and to solve: the things I enjoy the most. I have more than five years of work experience in a dynamic, fresh environment, which helped me build professional and soft skills. Although I am very independent in my day-to-day work, I enjoy talking to clients and colleagues to learn from them and find solutions together.
+
+Whether I am writing, modelling, doing statistical analysis, or research, I am detail-oriented and I have a strong work ethic. Primarily, I care about what I do because I work to protect what I care about.
+
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  
 ---
 
 ** index doesn't contain a body, just front matter above.
