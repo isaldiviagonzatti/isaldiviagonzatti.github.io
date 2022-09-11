@@ -11,6 +11,10 @@ To learn and to solve: the things I enjoy the most. I have more than five years 
 
 Whether I am writing, modelling, doing statistical analysis, or research, I am detail-oriented and I have a strong work ethic. Primarily, I care about what I do because I work to protect what I care about.
 
+show_outro: true
+outro: |
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+
 ---
 
 ** index doesn't contain a body, just front matter above.
