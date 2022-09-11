@@ -1,4 +1,4 @@
-baseURL = "https://www.isaldiviagonzatti.nl/"
+baseURL = "https://isaldiviagonzatti.github.io/isaldiviagonzatti"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hi, I'm Ignacio"
